@@ -18,13 +18,7 @@ package de.kp.spark.fm
 * If not, see <http://www.gnu.org/licenses/>.
 */
 
-import org.apache.spark.{RangePartitioner}
-import org.apache.spark.SparkContext._
-
 import org.apache.spark.rdd.RDD
-
-import de.kp.spark.core.model._
-import de.kp.spark.fm._
 
 class FM(@transient ctx:RequestContext) extends Serializable {
   

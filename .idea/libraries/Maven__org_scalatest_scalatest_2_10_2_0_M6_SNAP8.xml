@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.scalatest:scalatest_2.10:2.0.M6-SNAP8">
+    <CLASSES>
+      <root url="jar://D:/Maven/.m2/repository/org/scalatest/scalatest_2.10/2.0.M6-SNAP8/scalatest_2.10-2.0.M6-SNAP8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Maven/.m2/repository/org/scalatest/scalatest_2.10/2.0.M6-SNAP8/scalatest_2.10-2.0.M6-SNAP8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Maven/.m2/repository/org/scalatest/scalatest_2.10/2.0.M6-SNAP8/scalatest_2.10-2.0.M6-SNAP8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
